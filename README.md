@@ -3,10 +3,10 @@
 
 # Desarrollo
 + Se crea un nuevo repositorio en github
-+ Se inicia con: git init
++ Se inicia con: ```git init```
 + Se sincroniza desde vscode a github
-+ Se crea una nueva rama: git branch development
-+ Se cambia de rama: git checkout development
++ Se crea una nueva rama: ```git branch development```
++ Se cambia de rama: ```git checkout development```
 + Se modifica el index.html del proyecto
 + Se cambia la imagen por otra
 + Se agrega un enlace de la imagen al respositorio
