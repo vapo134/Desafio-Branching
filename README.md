@@ -11,8 +11,8 @@
 + Se modifica el index.html del proyecto
 + Se cambia la imagen por otra
 + Se agrega un enlace de la imagen al respositorio
-+ Se ahacen los cambios y el commit
++ Se hacen los cambios y el commit
 
 # ¿Existe el link en la imagen en la rama master?
-El link de la imagen no existia por lo que se cambia en la rama development
+El link de la imagen no existia por lo que se agrega una nueva imagen en la rama development
 
